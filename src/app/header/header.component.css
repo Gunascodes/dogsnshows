@@ -1,3 +1,29 @@
+.top-menu-i {
+    color: white;
+    padding-right: 10px;
+}
+
+.bottom-header {
+    box-shadow: -1px 4px 27px -9px rgba(0,0,0,0.75);
+}
+
+.bottom-nav-li {
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.header-nav-li {
+    padding: 6px 10px;
+}
+
+.bottom-nav-li:hover .header-nav-li {
+    background-color: #3b82f6;
+    padding: 6px 10px;
+    border-radius: 10px;
+    color: #fff;
+}
 @media (max-width: 640px){
     .top-nav {
         justify-content: center !important;

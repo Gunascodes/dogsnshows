@@ -1,0 +1,16 @@
+.side-bar-ul {
+    padding: 20px;
+    padding-top: 32px;
+}
+.side-bar-ul li {
+    margin: 0px 20px 20px 20px;
+    padding: 10px 14px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.side-bar-ul li:hover {
+    background: #fff;
+    border-radius: 8px;
+    color: black;
+}
