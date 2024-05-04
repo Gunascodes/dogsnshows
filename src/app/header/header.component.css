@@ -1,0 +1,5 @@
+@media (max-width: 640px){
+    .top-nav {
+        justify-content: center !important;
+    }
+}
